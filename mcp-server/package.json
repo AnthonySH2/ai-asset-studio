@@ -1,0 +1,28 @@
+{
+  "name": "ai-asset-studio-mcp",
+  "version": "1.0.0",
+  "description": "MCP Server for AI Asset Studio",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "ts-node src/index.ts"
+  },
+  "keywords": [
+    "mcp",
+    "ai",
+    "assets",
+    "3d",
+    "model-context-protocol"
+  ],
+  "author": "AI Asset Studio Team",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "latest",
+    "typescript": "^5.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.5.0",
+    "ts-node": "^10.9.1"
+  }
+}
