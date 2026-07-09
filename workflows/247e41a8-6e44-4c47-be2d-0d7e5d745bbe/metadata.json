@@ -1,9 +1,0 @@
-{
-  "workflowId": "247e41a8-6e44-4c47-be2d-0d7e5d745bbe",
-  "prompt": "Un paisaje con un lago",
-  "createdAt": "2026-07-09T01:40:59.056814",
-  "provider": "MockImageProvider",
-  "status": "IMAGE_GENERATED",
-  "imagePath": "workflows\\79a2a2b3-f44e-44d9-a4ad-fb3ca975f4d0\\image.png",
-  "version": "1.0.0"
-}

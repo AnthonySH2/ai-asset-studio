@@ -35,3 +35,9 @@ cache/
 
 # Models (si luego descargas modelos grandes)
 models/
+
+workflows/
+orchestrator/workflows/
+*.pyc
+__pycache__/
+.git/
