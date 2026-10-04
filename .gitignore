@@ -32,6 +32,7 @@ Thumbs.db
 generated/
 temp/
 cache/
+orchestrator/output/images/
 
 # Models (si luego descargas modelos grandes)
 models/
